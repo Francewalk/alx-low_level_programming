@@ -6,7 +6,7 @@
 *
 * Return: Always 1 (sucees)
 */
-int main(viod)
+int main(void)
 {
 	write(2,
 	"and the piece of art is useful\" -Dora Korpar, 2015-10-19\n", 59);
